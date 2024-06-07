@@ -1,5 +1,5 @@
 spec:
- name: Nginx-page
+ name: nginx-page
  services:
  - name: webpage
    git:
